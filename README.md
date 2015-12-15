@@ -15,6 +15,10 @@ The first thing you should read when joining @algorithm_club is the <a href="htt
 * <a href="http://www.nyu.edu/projects/nissenbaum/papers/ShapingTheWeb.pdf">Shaping the Web</a> by Lucas D. Introna and Helen Nissenbaum
 
 
+* January TBA 2016
+* <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674368279">The Black Box Society The Secret Algorithms That Control Money and Information</a> by Frank Pasquale
+
+
 ###Past events:
 * November 23rd, 2015: The Relevance of Algorithms
 * 17.00 GMT/London, 12.00 EST/New York, 09.00 PST/Portland (sorry west coast)
