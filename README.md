@@ -10,7 +10,7 @@ Twitter <a href="twitter.com/algorithm_club">@algorithm_club</a>
 The first thing you should read when joining @algorithm_club is the <a href="https://github.com/drtortoise/critical-algorithm-studies/blob/master/code-of-conduct.md">Code of Conduct</a>
 
 ## Schedule - Upcoming events:
-* January TBA 2016
+* Monday February 15th, 2016
 * <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674368279">The Black Box Society The Secret Algorithms That Control Money and Information</a> by Frank Pasquale
 
 
