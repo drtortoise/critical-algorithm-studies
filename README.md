@@ -11,6 +11,7 @@ The first thing you should read when joining @algorithm_club is the <a href="htt
 
 ## Schedule - Upcoming events:
 * Monday February 15th, 2016
+* 17.00 GMT/London, 12.00 EST/New York, 09.00 PST
 * <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674368279">The Black Box Society The Secret Algorithms That Control Money and Information</a> by Frank Pasquale
 
 
