@@ -10,12 +10,14 @@ Twitter <a href="twitter.com/algorithm_club">@algorithm_club</a>
 The first thing you should read when joining @algorithm_club is the <a href="https://github.com/drtortoise/critical-algorithm-studies/blob/master/code-of-conduct.md">Code of Conduct</a>
 
 ## Schedule - Upcoming events:
-* Monday February 15th, 2016
-* 17.00 GMT/London, 12.00 EST/New York, 09.00 PST
-* <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674368279">The Black Box Society The Secret Algorithms That Control Money and Information</a> by Frank Pasquale
+* tba
 
 
 ###Past events:
+* Monday February 15th, 2016
+* 17.00 GMT/London, 12.00 EST/New York, 09.00 PST
+* <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674368279">The Black Box Society The Secret Algorithms That Control Money and Information</a> by Frank Pasquale
+<hr>
 * December 18th, 2015: Shaping the Web: Why the Politics of Search Engines Matters
 * 17.00 GMT/London, 12.00 EST/New York, 09.00 PST/Portland (sorry west coast)
 * <a href="http://www.nyu.edu/projects/nissenbaum/papers/ShapingTheWeb.pdf">Shaping the Web</a> by Lucas D. Introna and Helen Nissenbaum
