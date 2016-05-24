@@ -10,7 +10,9 @@ Twitter <a href="twitter.com/algorithm_club">@algorithm_club</a>
 The first thing you should read when joining @algorithm_club is the <a href="https://github.com/drtortoise/critical-algorithm-studies/blob/master/code-of-conduct.md">Code of Conduct</a>
 
 ## Schedule - Upcoming events:
-* tba
+* Monday May 30th, 2016
+* 17.00 GMT/London, 12.00 EST/New York, 09.00 PST
+* We have two short readings, <a href="https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa">The Point of Collection</a> by Mimi Onuoha and <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">Machine Bias</a> by by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner.
 
 
 ###Past events:
